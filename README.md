@@ -13,6 +13,6 @@
 *Cartografía geomorfológica
     *Morfometría
     
-### [Perfil de LinkDin] (https://cr.linkedin.com/in/manfredsalascastro)
+### [Perfil de LinkeDin](https://cr.linkedin.com/in/manfredsalascastro)
 
 
