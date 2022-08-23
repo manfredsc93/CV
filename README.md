@@ -3,6 +3,7 @@
 **Nombre** : Manfred Salas Castro
 
 **Profesión** : Geógrafo
+![](B757.jpg)
 
 ## Áreas de interés
 1. Gestión de riesgos  
