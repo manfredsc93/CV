@@ -9,10 +9,10 @@
 2. Gestión del recurso hídrico
 
 ## Cursos de especialización
--GRD
-
--Cartografía geomorfológica
-
-    -Morfometría
+*GRD
+*Cartografía geomorfológica
+    *Morfometría
+    
+### [Perfil de LinkDin] (https://cr.linkedin.com/in/manfredsalascastro)
 
 
