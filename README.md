@@ -4,7 +4,7 @@
 
 **Profesión** : Geógrafo
 
-![](B757.jpg)
+
 
 ## Áreas de interés
 1. Gestión de riesgos  
@@ -18,4 +18,4 @@
     
 ### [Perfil de LinkeDin](https://cr.linkedin.com/in/manfredsalascastro)
 
-
+![](B757.jpg)
