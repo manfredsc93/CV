@@ -2,7 +2,7 @@
 
 **Nombre** : Manfred Salas Castro
 
-**Profesión** : _Geógrafo
+**Profesión** : *Geógrafo*
 
 
 
