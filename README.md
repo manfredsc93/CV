@@ -1,8 +1,8 @@
-# Perfil Académico
+# **Perfil Académico**
 
 **Nombre** : Manfred Salas Castro
 
-**Profesión** : Geógrafo
+**Profesión** : _Geógrafo
 
 
 
@@ -13,7 +13,7 @@
 ## Cursos de especialización
 - GRD
 - Cartografía geomorfológica
--Morfometría
+- Morfometría
     
 ### [Perfil de LinkeDin](https://cr.linkedin.com/in/manfredsalascastro)
 
