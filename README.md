@@ -11,8 +11,8 @@
 2. Gestión del recurso hídrico
 
 ## Cursos de especialización
-*GRD
-*Cartografía geomorfológica
+-GRD
+-Cartografía geomorfológica
 
      Morfometría
     
