@@ -1,4 +1,4 @@
-# **Perfil Académico*
+**Perfil Académico*
     * Bachiller en Geografía, 2020.
     * Licenciatura en trámite.
     *Maestría en trámite.
