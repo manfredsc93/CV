@@ -10,8 +10,8 @@
 **Nombre** : Manfred Salas Castro
 
 **Profesión** : *Geógrafo*
-![](CV.jpg)
-<img src="CV.jpg" alt="Kingfisher" width="50" height="50" />
+
+<img src="CV.jpg" alt="CV" width="50" height="50" />
 
 ## Áreas de interés
 1. Gestión de riesgos  
