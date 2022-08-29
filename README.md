@@ -1,4 +1,4 @@
-#*Perfil Académico*
+# *Perfil Académico*
 
     * Bachiller en Geografía, 2020.
     
@@ -11,7 +11,7 @@
 
 **Profesión** : *Geógrafo*
 ![](CV.jpg)
-<img src="CV.jpg" alt="Kingfisher" width="100" height="100" />
+<img src="CV.jpg" alt="Kingfisher" width="50" height="50" />
 
 ## Áreas de interés
 1. Gestión de riesgos  
