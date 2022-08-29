@@ -1,4 +1,4 @@
-# Perfil Académico
+# Formación
 
 * Bachiller en Geografía, 2020.
     
