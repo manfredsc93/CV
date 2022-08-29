@@ -1,4 +1,4 @@
-# *Perfil Académico*
+#Perfil Académico
 
     Bachiller en Geografía, 2020.
     
