@@ -7,9 +7,9 @@
     Maestría en trámite.
     
 
-##**Nombre** : Manfred Salas Castro
+## **Nombre** : Manfred Salas Castro
 
-##**Profesión** : *Geógrafo*
+## **Profesión** : *Geógrafo*
 
 <img src="CV.jpg" alt="CV" width="100" height="100" />
 
