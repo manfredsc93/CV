@@ -20,5 +20,5 @@
 ## Contacto   
 ### [Perfil de LinkeDin](https://cr.linkedin.com/in/manfredsalascastro)
 
-![](B757.jpg)
+![](CV.jpg)
 
