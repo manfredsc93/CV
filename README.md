@@ -1,10 +1,14 @@
-# **Perfil Académico**
+# **Perfil Académico*
+    * Bachiller en Geografía, 2020.
+    * Licenciatura en trámite.
+    *Maestría en trámite.
+    
 
 **Nombre** : Manfred Salas Castro
 
 **Profesión** : *Geógrafo*
-
-
+![](CV.jpg)
+<img src="CV.jpg" alt="Kingfisher" width="100" height="100" />
 
 ## Áreas de interés
 1. Gestión de riesgos  
@@ -20,5 +24,4 @@
 ## Contacto   
 ### [Perfil de LinkeDin](https://cr.linkedin.com/in/manfredsalascastro)
 
-![](CV.jpg)
 
