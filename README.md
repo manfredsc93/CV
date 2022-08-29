@@ -1,4 +1,4 @@
-#Perfil Académico
+# Perfil Académico
 
     Bachiller en Geografía, 2020.
     
@@ -7,11 +7,11 @@
     Maestría en trámite.
     
 
-**Nombre** : Manfred Salas Castro
+##**Nombre** : Manfred Salas Castro
 
-**Profesión** : *Geógrafo*
+##**Profesión** : *Geógrafo*
 
-<img src="CV.jpg" alt="CV" width="70" height="70" />
+<img src="CV.jpg" alt="CV" width="100" height="100" />
 
 ## Áreas de interés
 1. Gestión de riesgos  
